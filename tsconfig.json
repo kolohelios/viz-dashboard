@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true
+    }
+}
